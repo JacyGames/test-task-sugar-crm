@@ -1,0 +1,20 @@
+.info {
+  text-align:center;
+  margin: 15px 0;
+}
+.item {
+  cursor: pointer;
+  text-transform: capitalize;
+}
+.footerSubmit {
+  display: flex;
+  justify-content: flex-end;
+  margin: 15px 0;
+}
+.loaderCenter {
+  display: flex;
+  justify-content: center;
+}
+.capitalize {
+  text-transform: capitalize;
+}
